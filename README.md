@@ -16,7 +16,7 @@ modified. `ceph/ceph-ansible` is released under the Apache License.
 
 The following system packages ( or their equivalents for your OS ) are
 required to run `ursula`:
-
+* test
 * python-pip
 * python-dev
 * libxml2-dev
